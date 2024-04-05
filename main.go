@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/haji-saklain/user-api/user"
 	"github.com/spf13/cobra"
 	"os"
 )
